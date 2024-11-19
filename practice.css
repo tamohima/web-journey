@@ -1,0 +1,26 @@
+h1{
+        font-size:22px;
+        color:Black;
+        text-transform:uppercase;
+    }
+    p1{
+        font-family:Arial,Helvetica,sans-serif;
+        font-size:18px;
+        color:blue;
+        line-height:1;
+
+    }
+    p2{
+        font-family:Arial,Helvetica,sans-serif;
+        font-size:19px;
+        color:red;
+        line-height:1;
+
+    }
+    button{
+        font-size:20;
+        background-color: black;
+        color:blueviolet;
+        text-transform:uppercase-lowercase;
+        
+    }
