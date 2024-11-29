@@ -1,0 +1,47 @@
+ 
+ 
+ div {
+   background-color: green; 
+  width: 100px;
+  margin: 20px;
+  height: 200px;
+  padding: 15px;
+  border: 50px solid yellow;
+  
+ }
+ div1{
+    background-color: black;
+ }
+ 
+ /*.one{
+    order:234;
+ }
+ .three{
+    order:456
+ }
+ .two{
+    order:123;
+ }
+
+     /*display: flex;
+     main asis;
+     flex-direction:column
+     flex-direction:column-reverse;
+     flex-direction: row;
+     flex-direction: row reverse;
+     flex-wrap: wrap;
+     flex-wrap:wrap-reverse;
+     flex-wrap: nowrap;
+     flex-flow:  direction nowrap;
+     justify-content:start,end,space,space-evenly,center;
+     cross axis;
+     align-items:stretch,flex-centre;
+     align-content:start,end,space,space-evenly,centre;
+     
+
+  
+
+
+
+ 
+

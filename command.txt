@@ -1,0 +1,5 @@
+step 1:Terminal open
+step 2:git add .
+step 3:git commit -m "message"
+step 4:git push -u origin master
+step 5:terminal close

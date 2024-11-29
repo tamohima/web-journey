@@ -1,0 +1,22 @@
+
+
+wrapper{
+    width:500px;
+    margin:20px auto;
+}
+
+
+
+.left{
+    background-color: brown;
+    width:200px ;
+    height:100px;
+    float:left;
+
+}
+.right{
+    background-color:black;
+    width:250px ;
+    height:200px;
+    float:left;
+}
