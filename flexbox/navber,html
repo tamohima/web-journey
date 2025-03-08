@@ -1,0 +1,44 @@
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script
+      src="https://kit.fontawesome.com/d557328426.js"
+      crossorigin="anonymous"
+    ></script>
+    <title>Navbar</title>
+    <link rel="stylesheet" href="./navber.css">
+  </head>
+  <body>
+    <nav class="container">
+      <!-- Logo -->
+      <div class="logo">
+        <img class="logo-img" src="./Logo.png" alt="logo" />
+      </div>
+      <!-- Nav item -->
+      <div class="nav-items">
+        <ul class="nav-items-ul">
+          <li class="nav-item">
+            <a href="#"><i class="fas fa-home"></i> Home</a>
+          </li>
+          <li class="nav-item">
+            <a href="#"><i class="fas fa-walking"></i> Features</a>
+          </li>
+          <li class="nav-item">
+            <a href="#"><i class="fas fa-money-bill-wave"></i> Pricing</a>
+          </li>
+          <li class="nav-item">
+            <a href="#"><i class="fas fa-user"></i> Testimonials</a>
+          </li>
+          <li class="nav-item">
+            <a href="#"><i class="fas fa-info-circle"></i> Help</a>
+          </li>
+        </ul>
+      </div>
+      <!-- buttons -->
+      <div class="btn">
+        <button class="btn-signin">Sign In</button>
+        <button class="btn-signup">Sign Up</button>
+      </div>
+    </nav>
+  </body>
+</html>
